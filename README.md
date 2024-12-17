@@ -21,4 +21,4 @@ This project focuses on predicting antimicrobial resistance using machine learni
 
 ## How to Run
 - Clone the repository:
-- Open with github Dev
+- Open with github.Dev
